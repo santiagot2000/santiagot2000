@@ -1,4 +1,4 @@
-name: Update README2
+name: Update README
 
 on:
   schedule:
@@ -8,11 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: update profile readme
+    name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2.3.4
-
-      - uses: readme-Workflows/recent-activity@v2
+      - uses: actions/checkout@v4.2.2
+      
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
