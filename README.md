@@ -7,3 +7,8 @@
 
 ### Vias de contacto
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fsantiagot2000)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:sctiviity-->
