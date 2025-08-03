@@ -10,10 +10,11 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [santiagot2000/taller-consumo-apis](https://github.com/santiagot2000/taller-consumo-apis)<br>
-2. 📔 Created new repository [santiagot2000/localStorage](https://github.com/santiagot2000/localStorage)<br>
+1. 📔 Created new repository [santiagot2000/proyecto-apiCrud](https://github.com/santiagot2000/proyecto-apiCrud)<br>
+2. 📔 Created new repository [santiagot2000/taller-consumo-apis](https://github.com/santiagot2000/taller-consumo-apis)<br>
 3. 📔 Created new repository [santiagot2000/localStorage](https://github.com/santiagot2000/localStorage)<br>
+4. 📔 Created new repository [santiagot2000/localStorage](https://github.com/santiagot2000/localStorage)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 2nd, 2025, 1:24:12 PM
+Last Updated: Sunday, August 3rd, 2025, 2:24:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
