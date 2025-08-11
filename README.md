@@ -10,12 +10,12 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud](https://github.com/santiagot2000/proyecto-apiCrud)<br>
-2. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud](https://github.com/santiagot2000/proyecto-apiCrud)<br>
-3. 📔 Created new repository [santiagot2000/proyecto-apiCrud](https://github.com/santiagot2000/proyecto-apiCrud)<br>
-4. 📔 Created new repository [santiagot2000/taller-consumo-apis](https://github.com/santiagot2000/taller-consumo-apis)<br>
-5. 📔 Created new repository [santiagot2000/localStorage](https://github.com/santiagot2000/localStorage)<br>
+1. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud2](https://github.com/santiagot2000/proyecto-apiCrud2)<br>
+2. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud2](https://github.com/santiagot2000/proyecto-apiCrud2)<br>
+3. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud2](https://github.com/santiagot2000/proyecto-apiCrud2)<br>
+4. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud](https://github.com/santiagot2000/proyecto-apiCrud)<br>
+5. ⬆️ Pushed 1 commit(s) to [santiagot2000/proyecto-apiCrud](https://github.com/santiagot2000/proyecto-apiCrud)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 10th, 2025, 1:22:27 PM
+Last Updated: Monday, August 11th, 2025, 2:09:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
